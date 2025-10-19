@@ -1,0 +1,9 @@
+
+xcuserdata/
+build/
+.build/
+*.xcodeproj
+
+Midterm_KelvinChaoTests/
+Midterm_KelvinChaoUITests/
+
