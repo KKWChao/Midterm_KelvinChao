@@ -10,7 +10,7 @@ import SwiftUI
 struct Subject : Codable, Identifiable {
     var id: String
     var name: String
+    var team: String
     var description: String
     var imageName: String
 }
-

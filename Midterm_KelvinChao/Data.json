@@ -1,62 +1,128 @@
 [
-    {
-        "id": "aa32jj887hhg55",
-        "name": "Airedale Terrier",
-        "description": "replace with a description for this item",
-        "imageName": "airedale_terrier"
-    },
-    {
-        "id": "bb32jj887hhg77",
-        "name": "American Foxhound",
-        "description": "replace with a description for this item",
-        "imageName": "american_foxhound"
-    },
-    {
-        "id": "cc32jj887hhg66",
-        "name": "Dutch Shepherd",
-        "description": "replace with a description for this item",
-        "imageName": "dutch_shepherd"
-    },
-    {
-        "id": "dd32jj887hhg88",
-        "name": "Havanese",
-        "description": "replace with a description for this item",
-        "imageName": "havanese"
-    },
-    {
-        "id": "ee32jj887hhg99",
-        "name": "Leonberger",
-        "description": "replace with a description for this item",
-        "imageName": "leonberger"
-    },
-    {
-        "id": "ff32jj887hhg99",
-        "name": "Mudi",
-        "description": "replace with a description for this item",
-        "imageName": "mudi"
-    },
-    {
-        "id": "gg32jj887hhg99",
-        "name": "Norwegian Lundehund",
-        "description": "replace with a description for this item",
-        "imageName": "norwegian_lundehund"
-    },
-    {
-        "id": "hh32jj887hhg99",
-        "name": "Pharaoh Hound",
-        "description": "replace with a description for this item",
-        "imageName": "pharaoh_hound"
-    },
-    {
-        "id": "ii32jj887hhg99",
-        "name": "Scottish Terrier",
-        "description": "replace with a description for this item",
-        "imageName": "scottish_terrier"
-    },
-    {
-        "id": "jj32jj887hhg99",
-        "name": "Tosa",
-        "description": "replace with a description for this item",
-        "imageName": "tosa"
-    }
+  {
+    "id": "f1dcb5f2-d50f-4d91-890f-f62a3c1cfa82",
+    "name": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "description": "Dutch driver, multiple-time F1 World Champion, dominant with Red Bull Racing.",
+    "imageName": "max_verstappen.jpg"
+  },
+  {
+    "id": "c755f3f2-c1b7-46e6-8a25-90e4fe510b27",
+    "name": "Sergio Pérez",
+    "team": "Red Bull Racing",
+    "description": "Mexican driver, known for his racecraft and consistent performances for Red Bull.",
+    "imageName": "sergio_perez.jpg"
+  },
+  {
+    "id": "7683a67e-f171-42c3-81e2-9449b42e0d35",
+    "name": "Charles Leclerc",
+    "team": "Ferrari",
+    "description": "Monegasque driver for Scuderia Ferrari, famous for his pole positions and aggressive racing style.",
+    "imageName": "charles_leclerc.jpg"
+  },
+  {
+    "id": "458e4725-ffea-467f-90ea-fc6ab83285cd",
+    "name": "Carlos Sainz",
+    "team": "Ferrari",
+    "description": "Spanish driver, reliable and quick, delivering consistent results with Ferrari.",
+    "imageName": "carlos_sainz.jpg"
+  },
+  {
+    "id": "aa8a0242-c34c-4ff7-b348-dc74831b3883",
+    "name": "Lando Norris",
+    "team": "McLaren",
+    "description": "British driver, renowned for his impressive overtakes and racecraft with McLaren.",
+    "imageName": "lando_norris.jpg"
+  },
+  {
+    "id": "0d7d10b7-5ab7-4096-b346-c5f4dbcf3514",
+    "name": "Oscar Piastri",
+    "team": "McLaren",
+    "description": "Australian driver, rookie talent, showing potential and speed in his debut seasons with McLaren.",
+    "imageName": "oscar_piastri.jpg"
+  },
+  {
+    "id": "9b8e6e9f-dc94-492d-8e29-8d7ab3d48b5f",
+    "name": "Lewis Hamilton",
+    "team": "Mercedes",
+    "description": "British seven-time F1 World Champion, known for his unmatched consistency and race wins with Mercedes.",
+    "imageName": "lewis_hamilton.jpg"
+  },
+  {
+    "id": "743eb7b4-0226-4a27-bc9a-130c7e689b21",
+    "name": "George Russell",
+    "team": "Mercedes",
+    "description": "British driver with Mercedes, famous for his pace, technical feedback, and rising talent.",
+    "imageName": "george_russell.jpg"
+  },
+  {
+    "id": "c5f34768-4332-4b77-b62c-b1fe6f9703c1",
+    "name": "Fernando Alonso",
+    "team": "Aston Martin",
+    "description": "Spanish two-time F1 World Champion, racing for Aston Martin and bringing decades of experience to the team.",
+    "imageName": "fernando_alonso.jpg"
+  },
+  {
+    "id": "d1d93772-1fd6-4e8d-9a1c-79db255ea450",
+    "name": "Lance Stroll",
+    "team": "Aston Martin",
+    "description": "Canadian driver, consistent and adaptable, racing for Aston Martin alongside Fernando Alonso.",
+    "imageName": "lance_stroll.jpg"
+  },
+  {
+    "id": "03bcf635-d539-4d89-b10b-c4e6c48e9d8b",
+    "name": "Pierre Gasly",
+    "team": "Alpine",
+    "description": "French driver, strong on racecraft, and now leading Alpine with his experience and speed.",
+    "imageName": "pierre_gasly.jpg"
+  },
+  {
+    "id": "cead8552-b0f6-45ca-b2a7-7cc35d09f4b9",
+    "name": "Esteban Ocon",
+    "team": "Alpine",
+    "description": "French driver, known for his resilience and pace, a strong driver at Alpine alongside Gasly.",
+    "imageName": "esteban_occon.jpg"
+  },
+  {
+    "id": "453763d7-5a2b-4b87-a217-3b62dbd53f8a",
+    "name": "Zhou Guanyu",
+    "team": "Alfa Romeo",
+    "description": "Chinese driver, first full-time F1 driver from China, showing progress with Alfa Romeo.",
+    "imageName": "zhou_guanyu.jpg"
+  },
+  {
+    "id": "e088d206-5bfc-40d2-8b64-1de2adf5e149",
+    "name": "Valtteri Bottas",
+    "team": "Alfa Romeo",
+    "description": "Finnish driver, former Mercedes star, now bringing his wealth of experience to Alfa Romeo.",
+    "imageName": "valtteri_bottas.jpg"
+  },
+  {
+    "id": "0c9d9b92-cb12-4b53-b003-8966b227f9cd",
+    "name": "Nyck de Vries",
+    "team": "AlphaTauri",
+    "description": "Dutch driver, former Formula E champion, racing for AlphaTauri with a sharp focus on developing the car.",
+    "imageName": "nyck_de_vries.jpg"
+  },
+  {
+    "id": "467fa773-b70c-4d72-8218-dcb73531f4da",
+    "name": "Yuki Tsunoda",
+    "team": "AlphaTauri",
+    "description": "Japanese driver, fast and aggressive on track, working to refine his consistency with AlphaTauri.",
+    "imageName": "yuki_tsunoda.jpg"
+  },
+  {
+    "id": "926bb49e-0a0f-42f7-9c1a-0e2d1d504604",
+    "name": "Alexander Albon",
+    "team": "Williams",
+    "description": "Thai-British driver, consistent and improving with Williams, known for his racecraft and sharp overtakes.",
+    "imageName": "alexander_albon.jpg"
+  },
+  {
+    "id": "f02cd8f9-195d-429a-b883-e2c464537800",
+    "name": "Logan Sargeant",
+    "team": "Williams",
+    "description": "American rookie driver, aiming to make his mark with Williams as a full-time F1 competitor.",
+    "imageName": "logan_sargeant.jpg"
+  }
 ]
