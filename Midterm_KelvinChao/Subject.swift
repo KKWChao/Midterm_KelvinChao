@@ -22,4 +22,5 @@ struct Drivers : Codable, Identifiable {
     var description: String
     var imageName: String
     var number: Int
+    var teamColor: String
 }
