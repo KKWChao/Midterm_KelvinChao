@@ -7,7 +7,7 @@
     "description": "Australian driver for McLaren, known for his impressive rookie season and strong qualifying performances.",
     "imageName": "2025mclarenlannor01right",
     "number": 81,
-    "teamColor":"orange"
+    "teamColor": "orange"
   },
   {
     "id": "B2E7D34C-23E5-5F67-90B2-D8C345G6F7B0",
@@ -17,7 +17,7 @@
     "description": "British driver for McLaren, known for his consistent podium finishes and engaging personality.",
     "imageName": "2025mclarenoscpia01right",
     "number": 4,
-    "teamColor":"orange"
+    "teamColor": "orange"
   },
   {
     "id": "C4F9D56E-34F6-6G78-A1C3-E9D456H7G8C1",
@@ -25,9 +25,9 @@
     "team": "Mercedes",
     "teamIcon": "2025mercedeslogowhite",
     "description": "British driver for Mercedes, known for his strong qualifying performances and race craft.",
-    "imageName": "2025mercedeslogowhite",
+    "imageName": "2025mercedesgeorus01right",
     "number": 63,
-    "teamColor":"teal"
+    "teamColor": "teal"
   },
   {
     "id": "D5G0E67F-45G7-7H89-B2D4-F0E567I8H9D2",
@@ -35,9 +35,9 @@
     "team": "Mercedes",
     "teamIcon": "2025mercedeslogowhite",
     "description": "Italian junior driver for Mercedes, highly regarded in the junior categories.",
-    "imageName": "2025mercedeslogowhite",
+    "imageName": "2025mercedesandant01right",
     "number": 12,
-    "teamColor":"teal"
+    "teamColor": "teal"
   },
   {
     "id": "E6H1F78G-56H8-8I90-C3E5-G1F678J9I0E3",
@@ -45,9 +45,9 @@
     "team": "Ferrari",
     "teamIcon": "2025ferrarilogowhite",
     "description": "Monegasque driver for Ferrari, team leader with multiple race wins and pole positions.",
-    "imageName": "2025ferrarilogowhite",
+    "imageName": "2025ferrarichalec01right",
     "number": 16,
-    "teamColor":"red"
+    "teamColor": "red"
   },
   {
     "id": "F7I2G89H-67I9-9J01-D4F6-H2G789K0J1F4",
@@ -55,9 +55,9 @@
     "team": "Ferrari",
     "teamIcon": "2025ferrarilogowhite",
     "description": "Seven-time World Champion joining Ferrari, known as one of the greatest drivers in F1 history.",
-    "imageName": "2025ferrarilogowhite",
+    "imageName": "2025ferrarilewham01right",
     "number": 44,
-    "teamColor":"red"
+    "teamColor": "red"
   },
   {
     "id": "G8J3H90I-78J0-0K12-E5G7-I3H890L1K2G5",
@@ -67,7 +67,7 @@
     "description": "Three-time World Champion for Red Bull, known for his dominant performances and racing aggression.",
     "imageName": "verstappen_redbull",
     "number": 1,
-    "teamColor":"blue"
+    "teamColor": "blue"
   },
   {
     "id": "H9K4I01J-89K1-1L23-F6H8-J4I901M2L3H6",
@@ -77,7 +77,7 @@
     "description": "Japanese driver for Red Bull Racing, known for his aggressive driving style and improving consistency.",
     "imageName": "tsunoda_redbull",
     "number": 22,
-    "teamColor":"blue"
+    "teamColor": "blue"
   },
   {
     "id": "I0L5J12K-90L2-2M34-G7I9-K5J012N3M4I7",
@@ -87,7 +87,7 @@
     "description": "Thai-British driver for Williams, known for strong race performances and overtaking ability.",
     "imageName": "albon_williams",
     "number": 23,
-    "teamColor":"indigo"
+    "teamColor": "indigo"
   },
   {
     "id": "J1M6K23L-01M3-3N45-H8J0-L6K123O4N5J8",
@@ -97,7 +97,7 @@
     "description": "Spanish driver for Williams, race winner known for his consistent performances and race craft.",
     "imageName": "sainz_williams",
     "number": 55,
-    "teamColor":"indigo"
+    "teamColor": "indigo"
   },
   {
     "id": "K2N7L34M-12N4-4O56-I9K1-M7L234P5O6K9",
@@ -107,7 +107,7 @@
     "description": "New Zealand driver for Racing Bulls, impressed in his substitute appearances with strong performances.",
     "imageName": "lawson_racingbulls",
     "number": 30,
-    "teamColor":"cyan"
+    "teamColor": "cyan"
   },
   {
     "id": "L3O8M45N-23O5-5P67-J0L2-N8M345Q6P7L0",
@@ -117,7 +117,7 @@
     "description": "French junior driver for Racing Bulls, competing in Formula 2 with Red Bull backing.",
     "imageName": "hadjar_racingbulls",
     "number": 6,
-    "teamColor":"cyan"
+    "teamColor": "cyan"
   },
   {
     "id": "M4P9N56O-34P6-6Q78-K1M3-O9N456R7Q8M1",
@@ -127,7 +127,7 @@
     "description": "Canadian driver for Aston Martin, known for strong wet weather performances and qualifying pace.",
     "imageName": "stroll_astonmartin",
     "number": 18,
-    "teamColor":"mint"
+    "teamColor": "mint"
   },
   {
     "id": "N5Q0O67P-45Q7-7R89-L2N4-P0O567S8R9N2",
@@ -137,7 +137,7 @@
     "description": "Two-time World Champion for Aston Martin, known for his exceptional racecraft and experience.",
     "imageName": "alonso_astonmartin",
     "number": 14,
-    "teamColor":"mint"
+    "teamColor": "mint"
   },
   {
     "id": "O6R1P78Q-56R8-8S90-M3O5-Q1P678T9S0O3",
@@ -147,7 +147,7 @@
     "description": "Experienced German driver for Kick Sauber, known for strong qualifying performances and consistency.",
     "imageName": "hulkenberg_sauber",
     "number": 27,
-    "teamColor":"green"
+    "teamColor": "green"
   },
   {
     "id": "P7S2Q89R-67S9-9T01-N4P6-R2Q789U0T1P4",
@@ -157,7 +157,7 @@
     "description": "Brazilian junior driver for Kick Sauber, Formula 3 champion developing in the junior categories.",
     "imageName": "bortoleto_sauber",
     "number": 5,
-    "teamColor":"gray"
+    "teamColor": "gray"
   },
   {
     "id": "Q8T3R90S-78T0-0U12-O5Q7-S3R890V1U2Q5",
@@ -167,7 +167,7 @@
     "description": "French driver for Haas, Grand Prix winner known for his racecraft and determined driving style.",
     "imageName": "ocon_haas",
     "number": 31,
-    "teamColor":"gray"
+    "teamColor": "gray"
   },
   {
     "id": "R9U4S01T-89U1-1V23-P6R8-T4S901W2V3R6",
@@ -177,7 +177,7 @@
     "description": "British junior driver for Haas, impressed in his F1 debut and competing in Formula 2.",
     "imageName": "bearman_haas",
     "number": 87,
-    "teamColor":"gray"
+    "teamColor": "gray"
   },
   {
     "id": "S0V5T12U-90V2-2W34-Q7S9-U5T012X3W4S7",
@@ -187,7 +187,7 @@
     "description": "French driver for Alpine, Grand Prix winner known for his determined driving style and experience.",
     "imageName": "gasly_alpine",
     "number": 10,
-    "teamColor":"teal"
+    "teamColor": "teal"
   },
   {
     "id": "T1W6U23V-01W3-3X45-R8T0-V6U123Y4X5T8",
@@ -197,6 +197,6 @@
     "description": "Argentine junior driver for Alpine, competing in Formula 2 and part of Alpine's junior program.",
     "imageName": "colapinto_alpine",
     "number": 43,
-    "teamColor":"teal"
+    "teamColor": "teal"
   }
 ]

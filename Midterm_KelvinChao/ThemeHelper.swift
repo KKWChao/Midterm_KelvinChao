@@ -7,7 +7,7 @@
 
 import UIKit
 
-extension Theme {
+extension Drivers {
     var teamColor: Color {
         switch color.tolowerCase() {
         case "orange": return .orange
