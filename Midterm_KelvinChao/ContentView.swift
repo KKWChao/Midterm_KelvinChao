@@ -48,7 +48,7 @@ struct ContentView: View {
                         }
                     }
                 }
-            }.navigationTitle("Kelvin's Dog List")
+            }.navigationTitle("F1 Drivers of 2025")
         }
     }
 }

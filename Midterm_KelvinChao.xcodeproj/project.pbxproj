@@ -40,16 +40,6 @@
 			path = Midterm_KelvinChao;
 			sourceTree = "<group>";
 		};
-		4AE6EF202EA4508D00F07A2E /* Midterm_KelvinChaoTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Midterm_KelvinChaoTests;
-			sourceTree = "<group>";
-		};
-		4AE6EF2A2EA4508E00F07A2E /* Midterm_KelvinChaoUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Midterm_KelvinChaoUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +72,6 @@
 			children = (
 				4AE6EF402EA455B800F07A2E /* .gitignore */,
 				4AE6EF112EA4508C00F07A2E /* Midterm_KelvinChao */,
-				4AE6EF202EA4508D00F07A2E /* Midterm_KelvinChaoTests */,
-				4AE6EF2A2EA4508E00F07A2E /* Midterm_KelvinChaoUITests */,
 				4AE6EF102EA4508C00F07A2E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -136,9 +124,6 @@
 			dependencies = (
 				4AE6EF1F2EA4508D00F07A2E /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				4AE6EF202EA4508D00F07A2E /* Midterm_KelvinChaoTests */,
-			);
 			name = Midterm_KelvinChaoTests;
 			packageProductDependencies = (
 			);
@@ -158,9 +143,6 @@
 			);
 			dependencies = (
 				4AE6EF292EA4508E00F07A2E /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				4AE6EF2A2EA4508E00F07A2E /* Midterm_KelvinChaoUITests */,
 			);
 			name = Midterm_KelvinChaoUITests;
 			packageProductDependencies = (

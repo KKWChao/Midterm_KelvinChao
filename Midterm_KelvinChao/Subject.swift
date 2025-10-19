@@ -11,6 +11,7 @@ struct Subject : Codable, Identifiable {
     var id: String
     var name: String
     var team: String
+    var teamIcon: String
     var description: String
     var imageName: String
 }
