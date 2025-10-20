@@ -23,15 +23,17 @@ This SwiftUI app displays a list of Formula 1 drivers and their teams using loca
 
 ## Folder Structure
 
-Midterm_KelvinChao
-├── Assets.xcassets/
-│ └── ...images
-├── ContentView.swift
-├── Data.json
-├── Helper.swift
-├── ThemeHelper.swift
-├── Subject.swift
-├── Midterm_KelvinChaoApp.swift
+```bash
+Midterm_KelvinChao/
+├── Assets.xcassets/ # Asset catalog (contains your images)
+│ └── ... # Image sets (e.g., driver1, teamLogo, etc.)
+├── ContentView.swift # Main view showing the list of items
+├── Data.json # JSON file containing your app's data
+├── Helper.swift # JSON decoding helper
+├── ThemeHelper.swift # Extension to handle dynamic team colors
+├── Subject.swift # Model struct for your data (e.g., Drivers)
+└── Midterm_KelvinChaoApp.swift # App entry point
+```
 
 ## Getting Started
 
