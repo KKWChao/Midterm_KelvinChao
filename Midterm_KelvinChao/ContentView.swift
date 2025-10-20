@@ -5,6 +5,13 @@
 //  Created by Kelvin Chao on 10/18/25.
 //
 
+/*
+ * CIS 137
+ * Kelvin Chao
+ * 19/10/2025
+ * Midterm Project
+ */
+
 import SwiftUI
 
 let drivers = Bundle.main.decode([Drivers].self, from: "Data.json")
@@ -12,18 +19,19 @@ let drivers = Bundle.main.decode([Drivers].self, from: "Data.json")
 struct DriverPage: View {
     let person: Drivers
     
-    
-    
     var body: some View {
         ZStack(alignment: .center) {
             VStack {
                 HStack {
                     Image(person.teamIcon)
+                        .resizable()
+                        .frame(width: 50, height: 50)
                     Text(person.team)
                     Spacer()
                     Text(String(person.number))
-                        .fontWeight(.bold)
-                }.background(.orange)
+                }.padding(24).background(person.color)                        .foregroundColor(.white)
+                    .fontWeight(.bold)
+                    .font(.system(size: 32))
 
                 Image(person.imageName)
                     .resizable()
@@ -31,7 +39,7 @@ struct DriverPage: View {
                     .cornerRadius(5)
                     .padding(.leading, 24)
                     .padding(.trailing, 24)
-            }
+            }.background(person.color.opacity(0.2))
 
             VStack(alignment: .center) {
                 Spacer()
@@ -45,7 +53,11 @@ struct DriverPage: View {
                     Divider()
                     Text(person.description)
                     
-                }.padding(24).background(Color.orange)
+                }
+                .padding(24)
+                .padding(.bottom, 56)
+                .background(person.color)
+                .foregroundColor(.white)
             }
         }
     }
@@ -58,18 +70,18 @@ struct ContentView: View {
                 ForEach(drivers, id: \.id) { driver in
                     NavigationLink(destination: DriverPage(person: driver)) {
                         HStack {
-                            Image(driver.teamIcon)
+                            Image(driver.imageName)
                                 .resizable()
                                 .scaledToFit()
-                                .frame(width: 50)
-                                .background(Color.gray)
+                                .frame(width: 50, height: 50)
+                                .background(driver.color)
                                 .cornerRadius(5)
                             Text(driver.name)
                         }
                     }
                 }
-            }.navigationTitle("F1 Drivers of 2025")
-        }
+            }.navigationTitle("Kelvin Chao's F1 Teams")
+        }.tint(.black)
     }
 }
 

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4AE6EF412EA455BE00F07A2E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4AE6EF402EA455B800F07A2E /* .gitignore */; };
+		4AE6EF792EA5B91F00F07A2E /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 4AE6EF782EA5B91400F07A2E /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		4AE6EF1D2EA4508D00F07A2E /* Midterm_KelvinChaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Midterm_KelvinChaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AE6EF272EA4508E00F07A2E /* Midterm_KelvinChaoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Midterm_KelvinChaoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AE6EF402EA455B800F07A2E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		4AE6EF782EA5B91400F07A2E /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -70,6 +72,7 @@
 		4AE6EF062EA4508C00F07A2E = {
 			isa = PBXGroup;
 			children = (
+				4AE6EF782EA5B91400F07A2E /* readme.md */,
 				4AE6EF402EA455B800F07A2E /* .gitignore */,
 				4AE6EF112EA4508C00F07A2E /* Midterm_KelvinChao */,
 				4AE6EF102EA4508C00F07A2E /* Products */,
@@ -201,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AE6EF412EA455BE00F07A2E /* .gitignore in Resources */,
+				4AE6EF792EA5B91F00F07A2E /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

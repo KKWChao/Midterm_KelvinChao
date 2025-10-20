@@ -65,7 +65,7 @@
     "team": "Red Bull Racing",
     "teamIcon": "2025racingbullslogowhite",
     "description": "Three-time World Champion for Red Bull, known for his dominant performances and racing aggression.",
-    "imageName": "verstappen_redbull",
+    "imageName": "2025redbullracingmaxver01right",
     "number": 1,
     "teamColor": "blue"
   },
@@ -75,7 +75,7 @@
     "team": "Red Bull Racing",
     "teamIcon": "2025racingbullslogowhite",
     "description": "Japanese driver for Red Bull Racing, known for his aggressive driving style and improving consistency.",
-    "imageName": "tsunoda_redbull",
+    "imageName": "2025redbullracingyuktsu01right",
     "number": 22,
     "teamColor": "blue"
   },
@@ -85,7 +85,7 @@
     "team": "Williams",
     "teamIcon": "2025williamslogowhite",
     "description": "Thai-British driver for Williams, known for strong race performances and overtaking ability.",
-    "imageName": "albon_williams",
+    "imageName": "2025williamsalealb01right",
     "number": 23,
     "teamColor": "indigo"
   },
@@ -95,7 +95,7 @@
     "team": "Williams",
     "teamIcon": "2025williamslogowhite",
     "description": "Spanish driver for Williams, race winner known for his consistent performances and race craft.",
-    "imageName": "sainz_williams",
+    "imageName": "2025williamscarsai01right",
     "number": 55,
     "teamColor": "indigo"
   },
@@ -105,7 +105,7 @@
     "team": "Racing Bulls",
     "teamIcon": "2025redbullracinglogowhite",
     "description": "New Zealand driver for Racing Bulls, impressed in his substitute appearances with strong performances.",
-    "imageName": "lawson_racingbulls",
+    "imageName": "2025racingbullslialaw01right",
     "number": 30,
     "teamColor": "cyan"
   },
@@ -115,7 +115,7 @@
     "team": "Racing Bulls",
     "teamIcon": "2025redbullracinglogowhite",
     "description": "French junior driver for Racing Bulls, competing in Formula 2 with Red Bull backing.",
-    "imageName": "hadjar_racingbulls",
+    "imageName": "2025racingbullsisahad01right",
     "number": 6,
     "teamColor": "cyan"
   },
@@ -125,7 +125,7 @@
     "team": "Aston Martin",
     "teamIcon": "2025astonmartinlogowhite",
     "description": "Canadian driver for Aston Martin, known for strong wet weather performances and qualifying pace.",
-    "imageName": "stroll_astonmartin",
+    "imageName": "2025astonmartinlanstr01right",
     "number": 18,
     "teamColor": "mint"
   },
@@ -135,7 +135,7 @@
     "team": "Aston Martin",
     "teamIcon": "2025astonmartinlogowhite",
     "description": "Two-time World Champion for Aston Martin, known for his exceptional racecraft and experience.",
-    "imageName": "alonso_astonmartin",
+    "imageName": "2025astonmartinferalo01right",
     "number": 14,
     "teamColor": "mint"
   },
@@ -145,7 +145,7 @@
     "team": "Kick Sauber",
     "teamIcon": "2025kicksauberlogowhite",
     "description": "Experienced German driver for Kick Sauber, known for strong qualifying performances and consistency.",
-    "imageName": "hulkenberg_sauber",
+    "imageName": "2025kicksaubernichul01right",
     "number": 27,
     "teamColor": "green"
   },
@@ -155,9 +155,9 @@
     "team": "Kick Sauber",
     "teamIcon": "2025kicksauberlogowhite",
     "description": "Brazilian junior driver for Kick Sauber, Formula 3 champion developing in the junior categories.",
-    "imageName": "bortoleto_sauber",
+    "imageName": "2025kicksaubergabbor01right",
     "number": 5,
-    "teamColor": "gray"
+    "teamColor": "green"
   },
   {
     "id": "Q8T3R90S-78T0-0U12-O5Q7-S3R890V1U2Q5",
@@ -165,7 +165,7 @@
     "team": "Haas F1 Team",
     "teamIcon": "2025haasf1teamlogowhite",
     "description": "French driver for Haas, Grand Prix winner known for his racecraft and determined driving style.",
-    "imageName": "ocon_haas",
+    "imageName": "2025haasestoco01right",
     "number": 31,
     "teamColor": "gray"
   },
@@ -175,7 +175,7 @@
     "team": "Haas F1 Team",
     "teamIcon": "2025haasf1teamlogowhite",
     "description": "British junior driver for Haas, impressed in his F1 debut and competing in Formula 2.",
-    "imageName": "bearman_haas",
+    "imageName": "2025haasolibea01right",
     "number": 87,
     "teamColor": "gray"
   },
@@ -185,7 +185,7 @@
     "team": "Alpine",
     "teamIcon": "2025alpinelogowhite",
     "description": "French driver for Alpine, Grand Prix winner known for his determined driving style and experience.",
-    "imageName": "gasly_alpine",
+    "imageName": "2025alpinepiegas01right",
     "number": 10,
     "teamColor": "teal"
   },
@@ -195,7 +195,7 @@
     "team": "Alpine",
     "teamIcon": "2025alpinelogowhite",
     "description": "Argentine junior driver for Alpine, competing in Formula 2 and part of Alpine's junior program.",
-    "imageName": "colapinto_alpine",
+    "imageName": "2025alpinefracol01right",
     "number": 43,
     "teamColor": "teal"
   }

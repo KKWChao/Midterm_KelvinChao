@@ -6,10 +6,11 @@
 //
 
 import UIKit
+import SwiftUI
 
 extension Drivers {
-    var teamColor: Color {
-        switch color.tolowerCase() {
+    var color: Color {
+        switch teamColor.lowercased() {
         case "orange": return .orange
         case "red": return .red
         case "blue": return .blue
